@@ -1,0 +1,9 @@
+base_path: "/Users/ativ/Dev/sce_cicd/docker_storage"
+
+repos: 
+  -name: "https://github.com/ativ-a/weather_app"
+  branch: "main"
+
+  -name: "" 
+  branch: ""
+  
